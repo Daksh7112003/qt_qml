@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>largeArm.png</file>
+    </qresource>
+</RCC>
