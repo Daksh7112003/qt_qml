@@ -36,10 +36,6 @@ Rectangle {
 
             onClicked: console.log("Lower rectangle clicked")
 
-
-
-
-
         }
     }
 
@@ -65,9 +61,6 @@ Rectangle {
             onReleased: console.log("Upper rectangle Released ")
 
             onClicked:console.log("Upper rectangle clicked")
-
-
-
 
         }
     }
