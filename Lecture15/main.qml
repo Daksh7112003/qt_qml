@@ -6,7 +6,7 @@ Rectangle {
     width: 640
     height: 640
     color: "blue"
-    focus: true  // Ensures the Rectangle can receive key events
+    focus: true  // ensures the rectangle can receive key events which can help in making the rectangle come in focus ......
 
     Image {
         id: rocket
