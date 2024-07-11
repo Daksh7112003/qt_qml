@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>checkedimage.qrc</file>
+        <file>uncheckedimage.qrc</file>
+        <file>CheckBox.qml</file>
+        <file>checkboxbetter.qml</file>
+    </qresource>
+</RCC>

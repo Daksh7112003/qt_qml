@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>checked.svg</file>
+    </qresource>
+</RCC>
