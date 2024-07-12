@@ -18,8 +18,8 @@ Rectangle{
 
     color:"red"
 
-    Behavior on x{SpringAnimation{spring:1 ;/*damping:0.2*/}}
-    Behavior on y{SpringAnimation{spring:2 ;  /*damping:0.2*/}}
+    Behavior on x{SpringAnimation{spring:1 ;damping:0.2}}
+    Behavior on y{SpringAnimation{spring:2 ;  damping:0.2}}
 }
 
     MouseArea{
